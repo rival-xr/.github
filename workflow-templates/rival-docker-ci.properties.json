@@ -1,0 +1,7 @@
+{
+    "name": "Building and pushing Docker images",
+    "description": "Default workflow for building and pushing Docker images to a registry.",
+    "filePatterns": [
+        "^Dockerfile"
+    ]
+}
